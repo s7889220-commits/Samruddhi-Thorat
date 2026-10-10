@@ -1,18 +1,16 @@
-# Hi...!
-I'm a BCS Student.
-## About Me
-- I'm Learning Java.
-- Interested in Software Development.
-- Learning new programming skills.
+# Hi,I'm a BCS Student!
+Aspiring Software Devloper
+Currently Learning Java
+Interested in Coding and Problem Solving
 
- ## Skills
+## My Skills 
  - Java
  - Python
- - HTML & CSS
+ - HTML
+ - CSS
  - SQL
 
- ## Goals
- - Build real-world projects
- - Improve my coding skills
+ ##  My Goal
+ To become a skilled Software Devloper.
  
 
